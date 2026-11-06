@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Photo Name 1",
+    "author": "Me",
+    "url_img": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/photo1.jpg"
+  },
+  {
+    "title": "Photo Name 2",
+    "author": "Me",
+    "url_img": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/photo2.jpg"
+  }
+]
